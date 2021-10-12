@@ -13,7 +13,7 @@ Seçtiğimiz kütüphaneler,kütüphaneleri seçmek için "Add Dependencies" tı
 
 ![8080](https://user-images.githubusercontent.com/61595808/137025388-51d9899e-80f4-4e60-9db0-8cb4d5154c07.png)
 
-Ama şu anda çalışmıyor.Çalışması için package(paket) oluşturmamız gerekiyor.
+Ama şu anda çalışmıyor.Yani o web sitesinden bir şey göremeyeceğiz.Görebilecek hale gelmek için ise package(paket) oluşturmamız gerekiyor.
 
 
 
