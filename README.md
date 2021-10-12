@@ -10,7 +10,10 @@ Seçtiğimiz kütüphaneler,kütüphaneleri seçmek için "Add Dependencies" tı
 
 İndirdiğimiz belgeyi Intellij de açıyoruz. "Run" dedikten sonra karşımıza çıkan loglardan "8080" portunda çalışacağını söylüyor.
 
-![Uploading image.png…]()
+
+![8080](https://user-images.githubusercontent.com/61595808/137025388-51d9899e-80f4-4e60-9db0-8cb4d5154c07.png)
+
+Ama şu anda çalışmıyor.Çalışması için package(paket) oluşturmamız gerekiyor.
 
 
 
