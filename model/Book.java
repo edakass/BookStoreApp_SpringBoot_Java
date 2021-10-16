@@ -1,7 +1,7 @@
 package com.edakas.bookstore.model;
 import lombok.*;
 import javax.persistence.*;
-//Veritabanı tablos olduğunu belirtmek için;
+//Veritabanı tablosu olduğunu belirtmek için;
 @Table
 //lambok'lar
 @Data
