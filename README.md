@@ -1,4 +1,4 @@
-# BookStoreApp_SpringBoot_Java
+# BookStoreApp_SpringBoot_Java_Basic
 Maven Kurulumu 
 
 Ortam değişkenlerinden program filestaki yolu path’e tıklayarak kopyaladık. 
